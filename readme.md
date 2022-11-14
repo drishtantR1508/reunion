@@ -13,3 +13,8 @@ Install following python pakages...
 EMAIL : admin
 PASSWORD : 1234
 
+
+![Alt text](./Adminpanel.png "a title")
+
+![Alt text](./Api_postman.png "a title")
+
