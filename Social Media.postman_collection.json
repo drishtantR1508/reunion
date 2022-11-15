@@ -137,7 +137,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY4NDIzODI1LCJpYXQiOjE2Njg0MjM1MjUsImp0aSI6Ijc5NzNkYzhhZjBlZTQ4NzM4N2Q4MGYxOGVkY2Q3YjQyIiwidXNlcl9pZCI6M30.b6R683e_x5sd57jQCBdP677YhmduRZym0HhGaHayTX8",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY4NDQyOTk2LCJpYXQiOjE2Njg0MzkzOTYsImp0aSI6ImIzMzRjMTMwNmM0MzQxZGRiMzFiMDRhMGI4ZjAwZTk1IiwidXNlcl9pZCI6MX0.T8koGK79y4AhZlKVyvxizZBw5uyY5tqSN6XsQRWa7dw",
 							"type": "string"
 						}
 					]
@@ -166,14 +166,14 @@
 					]
 				},
 				"url": {
-					"raw": "{{base_url}}/api/posts/9",
+					"raw": "{{base_url}}/api/posts/",
 					"host": [
 						"{{base_url}}"
 					],
 					"path": [
 						"api",
 						"posts",
-						"9"
+						""
 					]
 				}
 			},
@@ -274,7 +274,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY4NDI1NTQxLCJpYXQiOjE2Njg0MjUyNDEsImp0aSI6IjU0MWExZmNkNTc4YzQ4YjliZDlkNTVlZTgzN2NlZWQwIiwidXNlcl9pZCI6M30.En9OBF2d5NiMPZgd_OSW77mgHYONOyUCMTpan_hNNPM",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY4NDQyOTk2LCJpYXQiOjE2Njg0MzkzOTYsImp0aSI6ImIzMzRjMTMwNmM0MzQxZGRiMzFiMDRhMGI4ZjAwZTk1IiwidXNlcl9pZCI6MX0.T8koGK79y4AhZlKVyvxizZBw5uyY5tqSN6XsQRWa7dw",
 							"type": "string"
 						}
 					]
